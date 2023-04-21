@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std ;
 
+// linked list node
 struct node{
     int data;
     struct node *next;
